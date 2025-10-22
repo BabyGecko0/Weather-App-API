@@ -37,7 +37,7 @@
   transform: translateY(-50%);
   height: 90%;             
   width: auto;
-  pointer-events: none;    
+  /* pointer-events: none;     */
 }
 
 .weather-icon{
